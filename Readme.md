@@ -22,6 +22,6 @@ IE11だと、スクリプト内でインラインフレームのDOM操作部分�
 
 ```html
 <a class="qiita-timeline" href="https://qiita.com/users/{ユーザ名}" data-qiita-username="{ユーザ名}" data-qiita-itemcount="5">{ユーザ名}のtips</a>
-<script src="https://raw.github.com/future-ec-hoshi/qiita-widget-ex/master/script.js"></script>
+<script src="https://raw.github.com/future-ec-hoshi/qiita-widget-ex/master/qiita-widget.js"></script>
 ```
 
